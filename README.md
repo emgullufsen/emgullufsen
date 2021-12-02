@@ -1,7 +1,7 @@
 ### Rik E. Gee here...
 > the insipidity and yet the noise
 ---
-![stand of devil's club](https://rickysquid.org/images/ghub_banner.jpg)
+![stand of devil's club](https://rickysquid.org/images/ghub_banner-r.jpg)
 ---
 ✍️ Sometimes I [blog](https://rickysquid.org). Lately I've been working through [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) and learning some [Networking Things](https://gaia.cs.umass.edu/kurose_ross/eighth.htm).
 
