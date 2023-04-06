@@ -3,8 +3,8 @@
 ---
 ![stand of devil's club](https://rickysquid.org/images/ghub_banner-r2.jpg)
 ---
-✍️ Sometimes I [blog](https://rickysquid.org). Lately I've been working through [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) and learning some [Networking Things](https://gaia.cs.umass.edu/kurose_ross/eighth.htm).
+✍️ Sometimes I [blog](https://rickysquid.org). Lately I am interested in compilers and especially [LLVM](https://github.com/llvm/llvm-project/commits?author=emgullufsen).
 
-📖 Recently I'm reading [*The English and Their History*](https://www.theguardian.com/books/2014/nov/17/the-english-and-their-history-review-robert-tombs-resounding-importance) by Robert Tombs. Before that was *True Grit* by Charles Portis. 
+📖 Recently I'm reading [*The Year of Decision 1846*](https://www.goodreads.com/en/book/show/242652) by Bernard DeVoto. Before that was *The Committed* by Viet Thanh Nguyen. 
 
 ⚽ My favorite sports teams are Everton FC, Denver Nuggets, Seattle Seahawks, Seattle Mariners.
